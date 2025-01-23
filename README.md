@@ -1,2 +1,3 @@
 # maths-algorithms
-A collection of continuous and discrete mathematical algorithms
+a collection of continuous and discrete mathematical algorithms
+
